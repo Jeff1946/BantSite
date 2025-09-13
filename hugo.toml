@@ -3,15 +3,17 @@ languageCode = 'it'
 title = 'BAnt'
 theme = "mainroad"
 
-[params]
+[Params]
+    readmore = true
     author = "BAnt"
     authorimage = "images/charliebant.jpg"
     dateformat = "Jan 2, 2006"
-    
+
     google_cse_id = "355a943c9f2f5432b" 
     google_cse_filter = "bant.altervista.org/" 
 
-[params.postMeta]
+  
+[Params.postMeta]
   date = true
 
 [Params.widgets.search]
