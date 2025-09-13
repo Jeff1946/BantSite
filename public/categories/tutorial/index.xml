@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on BAnt</title>
+    <link>//localhost:1313/categories/tutorial/</link>
+    <description>Recent content in Tutorial on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ho pubblicato un libro con Kindle Direct Publishing</title>
+      <link>//localhost:1313/posts/tutorial/03kdp/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/tutorial/03kdp/</guid>
+      <description>&lt;p&gt;Dopo aver scritto e illustrato &lt;a href=&#34;//localhost:1313/posts/presidenti/00premessa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Rossazzurri Indimenticabili: i Presidenti del Catania&amp;rdquo;&lt;/a&gt;, &lt;a href=&#34;//localhost:1313/posts/presidenti/31copertina/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;realizzato la copertina&lt;/a&gt; e &lt;a href=&#34;//localhost:1313/posts/tutorial/01-come-ho-impaginato-ri-i-presidenti/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l&amp;rsquo;impaginazione&lt;/a&gt;, non mi restava che pubblicarlo su &lt;a href=&#34;https://kdp.amazon.com/it_IT/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Kindle Direct Publishing di Amazon&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Come ho impaginato il mio libro per la pubblicazione su KDP grazie a Scribus</title>
+      <link>//localhost:1313/posts/tutorial/01-come-ho-impaginato-ri-i-presidenti/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/tutorial/01-come-ho-impaginato-ri-i-presidenti/</guid>
+      <description>&lt;p&gt;Quando ho deciso di pubblicare &lt;a href=&#34;//localhost:1313/posts/presidenti/00intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Rossazzurri Indimenticabili: i Presidenti del Catania&lt;/strong&gt;&lt;/a&gt; su &lt;a href=&#34;https://kdp.amazon.com/it_IT/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Kindle Direct Publishing&lt;/strong&gt;&lt;/a&gt; ho anche deciso che avrei dovuto impaginarlo, imparando ancora una volta qualcosa di nuovo, cioè usare il software &lt;a href=&#34;https://www.scribus.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scribus&lt;/strong&gt;&lt;/a&gt;.&lt;/br&gt;&#xA;Non essendo un esperto di grafica, e volendo creare un &lt;em&gt;layout &lt;/em&gt;che non invecchiasse in fretta, ho puntato molto sulla semplicità.&lt;/br&gt;&#xA;Fra i miei obiettivi i principali erano la leggibilità del testo e la valorizzazione dei disegni.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Come ho fatto l&#39;editing di Rossazzurri Indimenticabili</title>
+      <link>//localhost:1313/posts/tutorial/02editing/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/tutorial/02editing/</guid>
+      <description>&lt;p&gt;Ho praticamente terminato l&amp;rsquo;&lt;em&gt;editing&lt;/em&gt; del mio libro &lt;a href=&#34;hhttps://www.amazon.it/dp/B0BJYGHXZH/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Rossazzurri Indimenticabili: i Presidenti del Catania&amp;rdquo;&lt;/a&gt;, in questo post ti spiego come ho fatto e perché questo passo, spesso trascurato, è fondamentale.&lt;/br&gt;&#xA;La fase di &lt;em&gt;editing&lt;/em&gt; non è, come molti credono, semplicemente una caccia al refuso. Essa ha l&amp;rsquo;obiettivo di scovare ogni tipo di errore che si nasconde nel testo.&lt;/br&gt;&#xA;Non solo errori di battitura, dunque.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schizzi on BAnt</title>
+    <link>//localhost:1313/categories/schizzi/</link>
+    <description>Recent content in Schizzi on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/schizzi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emanuele Cicerelli</title>
+      <link>//localhost:1313/posts/schizzi/cicerelli/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/schizzi/cicerelli/</guid>
+      <description>&lt;img class=&#34;aligncenter size-full wp-image-2229&#34; src=&#34;//localhost:1313/posts/schizzi/cicerelli/cicerelli.png&#34; alt=&#34;Emanuele Cicerelli visto da BAnt (2025)&#34; /&gt;&#xA;&lt;p&gt;La conferma di Emanuele Pio Cicerelli è per me la migliore notizia del pur ottimo mercato del Catania edizione 2025/26. &lt;/br&gt;&#xA;Non solo perché è un giocatore che meriterebbe di esibirsi in ben altra categoria, ma soprattutto perché questo fa sì che si disimpegni in giocate che riconciliano col gioco del calcio. &lt;/br&gt; Gioco del calcio che, in terza serie, troppo spesso è martoriato dall&amp;rsquo;incapacità tecnica degli interpreti e dall&amp;rsquo;ostruzionismo elevato a unica tattica cui affidarsi per muovere la classifica.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

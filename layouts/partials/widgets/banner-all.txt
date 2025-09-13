@@ -1,0 +1,7 @@
+<div class="widget-banner">
+  <a href="/gliallenatori-landing-page" target="_BLANK">
+    <img src="/images/banners/ri-vertical-all.jpg"
+         alt="Rossazzurri Indimenticabili, gli allenatori del Catania"
+         style="width:100%;" />
+  </a>
+</div>

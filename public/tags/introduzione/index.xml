@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduzione on BAnt</title>
+    <link>//localhost:1313/tags/introduzione/</link>
+    <description>Recent content in Introduzione on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/introduzione/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un&#39;altra sfida</title>
+      <link>//localhost:1313/posts/presidenti/00intro/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presidenti/00intro/</guid>
+      <description>&lt;p&gt;Ho deciso di scrivere un libro.&#xA;Sarà qualcosa mai fatto prima, racconterò tutto il processo su questo blog.&lt;br&gt;&#xA;Titolo provvisorio: &lt;a href=&#34;https://www.amazon.it/dp/B0BJYGHXZH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Rossazzurri Indimenticabili: I Presidenti”&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

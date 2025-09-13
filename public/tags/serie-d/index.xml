@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serie D on BAnt</title>
+    <link>//localhost:1313/tags/serie-d/</link>
+    <description>Recent content in Serie D on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/serie-d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Promossi!</title>
+      <link>//localhost:1313/posts/miscellanea/promozione-2023/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/miscellanea/promozione-2023/</guid>
+      <description>&lt;div&gt;&#xA;&lt;img class=&#34;aligncenter size-full wp-image-2229&#34; src=&#34;//localhost:1313/posts/miscellanea/promozione-2023/catania-ssd-titolari.png&#34; alt=&#34;Caricatura degli undici (più) titolare e dell&#39;allenatore Ferraro del Catania SSD promosso in C nel 2022/23 (Bant 2023)&#34; /&gt;&#xA;&lt;figcaption&gt;In piedi da sinistra: Sarao, Lorenzini, Somma, Rizzo, Lodi, Bethers, l&#39;allenatore Ferraro. Accosciati da sinistra: Castellini, Vitale, Chiarella, De Luca, Rapisarda.&lt;/figcaption&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Giovanni Ferraro</title>
+      <link>//localhost:1313/posts/allenatori/ferrarogiovanni/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/allenatori/ferrarogiovanni/</guid>
+      <description>&lt;p&gt;A ben pensarci mi sono garantito un posto fra gli indimenticabili rossazzurri nel momento stesso in cui ho firmato per il Catania.&lt;/br&gt;&#xA;Comunque fosse andata, sarei stato il primo allenatore del Catania rinato nel 2022 dopo il fallimento.&lt;/br&gt;&#xA;Se non avessi centrato l&amp;rsquo;obiettivo di riconquistare immediatamente la Serie C sarei stato ricordato per un &lt;em&gt;flop &lt;/em&gt;epico.&lt;/br&gt;&#xA;Fortunatamente le cose sono andate meglio di così.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ross Pelligra</title>
+      <link>//localhost:1313/posts/miscellanea/pelligra-2022/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/miscellanea/pelligra-2022/</guid>
+      <description>&lt;img class=&#34;aligncenter size-full wp-image-2229&#34; src=&#34;//localhost:1313/posts/miscellanea/pelligra-2022/pelligra.png&#34; alt=&#34;Ross Pelligra visto da BAnt (2022)&#34; /&gt;&#xA;&lt;p&gt;Pare che sia arrivato anche per noi, poveri tifosi del Catania, il momento di abbracciare una (ricca?) proprietà straniera.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

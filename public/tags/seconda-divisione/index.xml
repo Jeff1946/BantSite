@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seconda Divisione on BAnt</title>
+    <link>//localhost:1313/tags/seconda-divisione/</link>
+    <description>Recent content in Seconda Divisione on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/seconda-divisione/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1) Santi Quasimodo</title>
+      <link>//localhost:1313/posts/presidenti/01quasimodosanti/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presidenti/01quasimodosanti/</guid>
+      <description>&lt;p&gt;Mi chiamo Santi Quasimodo e sono nato a Aragona Caldare (Agrigento) il 20 febbraio 1887.&#xA;La mia vita è volata via fra una guerra all’altra.&#xA;E non è un modo di dire.&#xA;Ho scelto la carriera militare, come mio padre, e mi sono guadagnato due medaglie di bronzo al valor militare. La prima durante la campagna di Libia del 1912, la seconda nel corso della prima guerra mondiale, nel 1918.&#xA;Diventare il primo presidente della neonata Società Sportiva Catania, nel 1929, è stato un diversivo piacevole, anche se impegnativo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

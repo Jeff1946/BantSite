@@ -1,0 +1,24 @@
++++
+date = 2025-04-13
+draft = false
+title = 'My First Post'
+
+description = ""
+tags = [
+    "go",
+    "golang",
+    "hugo",
+    "development",
+]
+
+categories = [
+    "Development",
+    "golang",
+]
++++
+
+## Introduction
+
+This is **bold** text, and this is *emphasized* text.
+
+Visit the [Hugo](https://gohugo.io) website!

@@ -1,0 +1,82 @@
+---
+date: 2022-10-22
+linktitle: Ho pubblicato un libro con Kindle Direct Publishing
+title: Ho pubblicato un libro con Kindle Direct Publishing
+thumbnail: "/posts/tutorial/03kdp/kdp.png"
+categories: [ "Tutorial" ]
+tags: ["KDP", "self-publishing", "Amazon"]
+sidebar: right
+---
+Dopo aver scritto e illustrato <a href="/posts/presidenti/00premessa/" target="_blank" rel="noopener">"Rossazzurri Indimenticabili: i Presidenti del Catania"</a>, <a href="/posts/presidenti/31copertina/" target="_blank" rel="noopener">realizzato la copertina</a> e <a href="/posts/tutorial/01-come-ho-impaginato-ri-i-presidenti/" target="_blank" rel="noopener">l'impaginazione</a>, non mi restava che pubblicarlo su <a href="https://kdp.amazon.com/it_IT/" target="_blank" rel="noopener"><strong>Kindle Direct Publishing di Amazon</strong></a>.
+<!--more-->
+
+<h1>Perché il self-publishing</h1>
+Ho già avuto esperienze (positive) con l'editoria tradizionale (quella vera, <strong>non</strong> quella a pagamento) e non posso dire di essermi trovato male.</br>
+Ammetto anche di aver sottoposto questo libro ad un editore  che ha risposto con la classica lettera in cui diceva che esula dal contesto della sua linea editoriale, tuttavia fin dall'inizio la mia idea era di fare tutto da me. Non ho insistito, né ho cercato altri editori e non posso avere la presunzione di dire che avrei potuto trovarlo, vista la congiuntura economica del 2022.</br>
+Questo progetto aveva l'obiettivo di forzarmi ad imparare qualcosa di nuovo.
+Essendo timido e asociale mi piace fare le cose minimizzando l'interazione con gli altri, anche se gli input esterni mi hanno sempre illuminato su alcuni dettagli rendendo il mio lavoro migliore.
+
+Una volta imparato a disegnare caricature ho quindi voluto imparare come si impagina e si pubblica un libro.</br>
+Non è stata una scelta economica perché le <em>royalties</em> di un libro del genere, tutto a colori, sono basse in quanto il costo di produzione è alto.</br>
+L'aspetto positivo è che non ho dovuto fare compromessi su nulla e ho potuto dare vita al libro che volevo realizzare.
+
+Ho scelto Amazon per l'affidabilità. So che usando anche altri servizi come <a href="https://www.youcanprint.it/home" target="_blank" rel="noopener"><strong><em>YouCanPrint</em> </strong></a>potrei avere una distribuzione più ampia e racimolare qualche vendita in più ma non so se il gioco vale la candela. Dovrei infatti imparare come funziona il servizio e stare dietro alle relative incombenze su un'altra piattaforma.</br>
+Sta a te giudicare se vale la pena farlo, molto dipende anche dal tipo di libro che vuoi pubblicare. Il mio non si presta alla realizzazione di una versione digitale in formato <em>epub</em> o <em>mobi</em>, quindi ho lasciato perdere.
+</br></br>
+<h1>KDP, come funziona</h1>
+<a href="https://kdp.amazon.com/it_IT/" target="_blank" rel="noopener"><strong>Kindle Direct Publishing</strong></a> è il servizio di autopubblicazione di <a href="https://www.amazon.it/" target="_blank" rel="noopener">Amazon</a>. Come tutti i servizi del colosso di<a href="https://it.wikipedia.org/wiki/Jeff_Bezos" target="_blank" rel="noopener"> Jeff Bezos</a>, è estremamente efficiente.</br>
+C'è una <a href="https://kdp.amazon.com/it_IT/help/topic/G200634280" target="_blank" rel="noopener">guida completa</a> che ti spiega come realizzare il tuo libro, che sia cartaceo o digitale, come progettare la copertina, come pubblicarlo su Amazon, come fissare il prezzo e tutto il resto.</br>
+Il principio su cui si basa questo tipo di servizio è il <em>print on demand</em>, cioè ogni copia viene stampata solo se qualcuno la acquista, con conseguente ovvio risparmio per l'editore che non dovrà fare magazzino e nemmeno si dovrà occupare della distribuzione nelle librerie, a meno che non si accorga strada facendo che potrebbe valerne la pena.  In generale, se si sceglie questa strada bisogna mettersi nell'ottica che il libro non arriverà mai sugli scaffali di una libreria tradizionale. Se poi arriverà il successo, allora ci sarà modo di percorrere altre strade, ma non ha senso pensarci nel momento in cui si parte.
+</br></br>
+<h1>KDP, procedura di pubblicazione</h1>
+Ho fatto un po' fatica a trovare tutorial esaurienti su come affrontare la procedura di pubblicazione. Il migliore, o almeno quello che ho seguito, è stato <a href="https://youtu.be/EqqlA9nMbQs" target="_blank" rel="noopener">questo video</a> di Roc Sonia, una scrittrice in incognito.</br>
+Non c'è nulla di particolarmente difficile, per chi è abituato a muoversi nel web e nell'<em>e-commerce</em>.</br>
+Occorre prima di tutto creare un account su Amazon e completare il proprio profilo nella sezione relativa a KDP, in particolare servono il nome completo, l'IBAN per incassare (eventuali) guadagni e il codice fiscale.</br>
+Completato il profilo serve ovviamente un libro di cui si detengono i diritti di autore, impaginato opportunamente, per esempio usando i <a href="https://kdp.amazon.com/it_IT/help/topic/G201834190" target="_blank" rel="noopener"><em>template</em> di Amazon</a> se non si teme una impaginazione troppo banale e non si hanno contenuti grafici troppo sofisticati. Occorre anche che la copertina sia in un <em>file</em> a parte, sempre che non si usi lo strumento "Creazione Copertina", anch'esso valido se non si hanno molte competenze informatiche e non si ha qualcosa contro i <em>template standard</em>.
+
+Una volta che si hanno qualcosa da pubblicare non resta che cliccare su "crea libro cartaceo" oppure "crea ebook" in base a cosa si vuole fare e poi seguire le istruzioni.
+
+<img src="/posts/tutorial/03kdp/kdp01.png" alt="KDP: caricare i file del testo e della copertina" width="1798" height="853" />
+
+Nella prima parte occorre inserire le informazioni dettagliate sul libro. Il nome dell'autore e di eventuali collaboratori, di chi ha scritto l'eventuale prefazione, alcune parole chiave, la descrizione. Bisogna poi scegliere con cura la categoria di appartenenza del libro (al massimo due), inserire una descrizione del contenuto, tipicamente la quarta di copertina, e far generale ad Amazon un <a href="https://www.isbn.it/CODICEISBN.aspx" target="_blank" rel="noopener">codice ISBN</a>, qualora non se ne sia acquistato autonomamente uno.</br>
+Da notare che il codice fornito da Amazon vale solo per la pubblicazione su KDP. Se si ha intenzione di distribuire il libro attraverso canali diversi, possibilità che Amazon lascia all'autore, occorre  acquistare un ISBN privatamente e avere cura di includerlo nel <em>file</em> della copertina.</br>
+Completata questa fase si può passare alla seconda pagina di configurazione in cui scegli il formato e il tipo di carta.</br>
+Poi arriva il momento di caricare il tuo testo. Io avevo il PDF <a href="http://localhost:1313/posts/tutorial/01-come-ho-impaginato-ri-i-presidenti/" target="_blank" rel="noopener">generato con Scribus</a> in quanto volevo avere il pieno controllo dell'impaginazione, ma si possono usare altri formati. Il sistema caricherà il <em>file</em> e visualizzerà il messaggio di avvenuto caricamento quando finito. Stessa cosa per il <em>file</em> di <a href="/posts/presidenti/31copertina/" target="_blank" rel="noopener">copertina</a>.
+
+<img src="/posts/tutorial/03kdp/kdp02.png" alt="KDP: anteprima di stampa" width="1809" height="442" />
+A questo punto bisogna far partire lo strumento anteprima perché il sistema verifichi che i file sottomessi abbiano i requisiti necessari per la stampa.</br>
+Ci vorrà qualche minuto perché il sistema genera un nuovo <em>file</em> PDF. Alla fine del processo potrai scorrere tutte le pagine e verificare che non ci siano problemi (<em>e.g. font</em> non visualizzati, immagini mancanti, errori di formattazione, etc...) derivanti da questo processo di conversione.
+
+Ora puoi salvare e passare all'ultima pagina che ti consente di scegliere il mercato di riferimento. Se scegli <em>Amazon.com</em> il tuo libro sarà acquistabile in qualunque paese, se scegli <em>Amazon.it</em> esso sarà presente solo nella versione italiana del sito Amazon.
+Io ho scelto la prima opzione e ho quindi settato il prezzo per ciascun paese. Nel mio caso non mi sono preoccupato molto di massimizzare le <em>royalties</em>, ho cercato di tenere il prezzo basso per garantirmi che chi lo acquista abbia l'impressione che valga più di quanto costa. Inoltre il mio libro è a colori e quindi ha un costo di produzione notevole, di 7,2 euro per copia solo per la stampa, considerato che Amazon per i libri cartacei ad oggi (ottobre 2022) riconosce il 30% della differenza fra il costo di stampa più un valore fisso che dipende dal mercato (0,6 euro nel mio caso) per ciascuna copia, io fissando il prezzo a 15 euro ho potuto garantirmi di guadagnare 1,8 euro per ciascuna vendita. Decisamente poco rispetto alle ore spese, tuttavia bisogna anche considerare le prospettive di vendita ed essere realistici. Nel mio caso raggiungere più persone possibile era un <em>must</em>.
+
+Completata la procedura di caricamento del libro, basta approvare l'anteprima e sottomettere il libro per la pubblicazione (altrimenti resterà in bozza). Dopo qualche giorno Amazon procederà ad una ulteriore verifica di qualità del tuo libro e quindi darà l'ok per la pubblicazione e il libro sarà finalmente disponibile per l'acquisto.
+</br></br>
+<h1>Tasse e deposito legale</h1>
+Per pubblicare su Amazon non occorre avere una partita IVA perché c'è un intermediario che si occupa dell'attività commerciale. Dunque l'autore non può essere "accusato" di svolgere un'attività commerciale continuativa.</br>
+L'intermediario, cioè Amazon, pagherà le tasse che deve pagare e l'autore avrà cura di dichiarare i propri guadagni in sede di dichiarazione dei redditi, quando riceverà i relativi documenti fiscali da Amazon stesso. Essendo la prima volta che pubblico in autonomia non so quanto questo processo possa essere automatico, lo scoprirò col tempo.</br>
+A questo proposito bisogna ricordare che l'autopubblicazione non è a costo zero come si tende a pensare. A parte di costo del lavoro aggiuntivo che di solito svolge l'editore, si ha anche l'onere del <a href="https://www.librari.beniculturali.it/it/Attivita/deposito-legale/" target="_blank" rel="noopener">deposito legale</a> di tre copie presso le due biblioteche nazionali (con sede a Roma e Firenze) e quella regionale (nel mio caso a Palermo).
+Bisogna quindi andare sul sito, <a href="https://www.librari.beniculturali.it/it/Attivita/deposito-legale/modulistica/" target="_blank" rel="noopener">scaricare i moduli</a>, compilarli e inviarli per posta insieme a tre copie del libro alle suddette biblioteche entro 60 giorni dalla pubblicazione.</br>
+Se non lo si fa si è passibili di sanzioni.</br>
+Sebbene non credo che sia un rischio concreto, io ho adempiuto all'obbligo perché rispetto le regole e perché è un modo per dimostrare di essere l'autore del volume.
+</br></br>
+<h1>Copie autore e copie bozza</h1>
+Fortunatamente l'autore può acquistare delle copie del proprio libro a prezzo del costo di stampa.</br>
+La differenza è che le copie di bozza sono stampe di bassa qualità che servono a verificare che la resa del testo stampato sia quella che ci aspettiamo. La cosa non è scontata soprattutto nel caso di testi con figure a colori come il mio poiché i colori che vediamo su schermo non sono esattamente riproducibili in tipografia e talvolta per ottenere quello che si vuole occorre fare delle correzioni in base alle prove di stampa.</br>
+Sfortunatamente le copie bozza costano quanto quelle per l'autore, oltre alle spese di spedizione che sono da pagare pure per gli utenti iscritti a <em>Prime</em>.</br>
+Le copie autore però possono essere ordinate solo quando il libro è già stato pubblicato, mentre le copie di bozza, proprio per la loro funzione, sono disponibili anche prima.</br>
+Penso sia superfluo precisare che la vendita di copie bozze e autore non genera alcun guadagno in termini di <em>royalties</em>.</br>
+Devo dire che l'anteprima del libro generata sul sito al momento della creazione è molto precisa, io ho ho potuto vedere i pochi problemi che c'erano già da quella. Si trattava solo dello spessore della cornice della copertina che avevo fatto involontariamente asimmetrica sui lati corti.</br>
+Ero però molto preoccupato della resa effettiva dei miei disegni sia per l'incognita della resa dei colori che per le loro dimensioni rispetto alla pagina e ai margini, per questo non ho voluto lasciare nulla al caso.</br>
+Poi ho ordinato (poche) copie autore perché volevo regalarle a qualche amico.
+</br></br>
+<h1>Conclusioni</h1>
+La mia esperienza con <a href="https://kdp.amazon.com/it_IT/" target="_blank" rel="noopener"><strong>Kindle Direct Publishing</strong></a> (KDP) è stata positiva. Non ho avuto difficoltà ad usare gli strumenti e la qualità della stampa e del servizio sono all'altezza della fama di Amazon.</br>
+Occorre tenere bene in mente che la pubblicazione non basta: lo svantaggio principale di questo sistema è che la distribuzione avviene tramite un solo canale.</br>
+Non so bene come sia possibile far diventare "popolare" il proprio libro, se non con un'opportuna attività di <em>marketing</em> che permetta di innescare il passa parola e quindi di raggiungere il proprio pubblico di riferimento.</br>
+Sicuramnete con un po' di lavoro si possono raggiungere buoni numeri in fatto di vendite e, si spera, ottenere anche molte recensioni positive (questo dipende dalla qualità del libro che non deve deludere l'acquirente).</br>
+Sconsiglio però di tormentare amici e parenti per avere recensioni non spontanee o superficiali perché potrebbero farti perdere credibilità.</br>
+Io non sono un esperto di <em>marketing</em>. Ho solo cercato di creare un po' di attesa e di far conoscere il  mio progetto al pubblico che potrebbe essere interessato raccontando tutto il processo su questo blog e sul <a href="https://www.facebook.com/groups/127120070659414/" target="_blank" rel="noopener">gruppo facebook</a> di <strong><a href="https://tuttoilcataniaminutoperminuto.it/" target="_blank" rel="noopener">Tutto il Catania Minuto per Minuto</a></strong>.</br>
+Conto di continuare con le pubblicazioni relative agli allenatori e ai calciatori del Catania.</br>
+
+

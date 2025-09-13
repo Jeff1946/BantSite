@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.S: Catania on BAnt</title>
+    <link>//localhost:1313/tags/s.s-catania/</link>
+    <description>Recent content in S.S: Catania on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/s.s-catania/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14) Ottavio Priolo</title>
+      <link>//localhost:1313/posts/presidenti/14prioloottavio/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presidenti/14prioloottavio/</guid>
+      <description>&lt;p&gt;Mi chiamo Lorenzo Fazio e diventai Commissario Straordinario del Catania nell’aprile del 1949.&#xA;Era un momento complesso per la squadra che lottava in C con l’Avellino per il salto di categoria.&#xA;Mi ero fatto notare come uno dei soci più attivi quando, dopo il derby col Messina in cui l’arbitro ne combinò di cotte e di crude, organizzai una protesta formale con tanto di minaccia alla Federazione di ritirare la squadra.&#xA;La cosa rientrò, la squadra si riprese, ma la corsa a due con l’Avellino si giocò, oltre che sul rettangolo verde, nei tribunali.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Premessa on BAnt</title>
+    <link>//localhost:1313/tags/premessa/</link>
+    <description>Recent content in Premessa on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/premessa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gli allenatori del Catania, premessa</title>
+      <link>//localhost:1313/posts/allenatori/00premessa/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/allenatori/00premessa/</guid>
+      <description>&lt;p&gt;Il &lt;strong&gt;&lt;a href=&#34;https://www.amazon.it/Rossazzurri-Indimenticabili-gli-allenatori-Catania/dp/B0CMP4FSWZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;secondo volume di Rossazzurri Indimenticabili&lt;/a&gt;&lt;/strong&gt; sarà inevitabilmente diverso dal &lt;a href=&#34;https://www.amazon.it/dp/B0BJYGHXZH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;primo&lt;/a&gt;.&lt;/br&gt;&#xA;Innanzi tutto per una questione pratica: gli allenatori passati da Catania sono tanti di più dei presidenti e dei dirigenti, il che ha imposto una selezione che nel primo volume non è stata necessaria.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Presidenti del Catania, premessa</title>
+      <link>//localhost:1313/posts/presidenti/00premessa/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presidenti/00premessa/</guid>
+      <description>&lt;p&gt;La sfida di cui parlavo &lt;a href=&#34;//localhost:1313/posts/presidenti/00intro&#34;&gt;in questo post&lt;/a&gt; consiste nello scrivere e illustrare un libro sul Catania. Una pazzia considerate le condizioni in cui versa il Club.&lt;/br&gt;&#xA;Ma è anche un buon modo per esorcizzare il presente.&lt;/br&gt;&#xA;Il titolo sarà &lt;a href=&#34;https://www.amazon.it/dp/B0BJYGHXZH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Rossazzurri Indimenticabili: I Presidenti”&lt;/a&gt;.&lt;/br&gt;&#xA;Alcune precisazioni prima di cominciare.&lt;/br&gt;&#xA;&lt;strong&gt;Parlerò dei Presidenti del Catania dal 1929 ad oggi.&lt;/strong&gt;&#xA;Il Calcio Catania è nato nel 1946, lo so.&lt;/br&gt;&#xA;Tuttavia il &lt;strong&gt;Calcio Catania 1946 s.p.a.&lt;/strong&gt; non sarebbe esistito per come lo conosciamo senza la Società Sportiva Catania 1929, che vestiva la caratteristica casacca rossazzurra e sfoggiava lo stemma d&amp;rsquo;elefante ripreso nel 1946.&lt;/br&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

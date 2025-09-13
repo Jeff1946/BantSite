@@ -1,0 +1,83 @@
+baseURL = '/'
+languageCode = 'it'
+title = 'BAnt'
+theme = "mainroad"
+
+[params]
+    author = "BAnt"
+    authorimage = "images/charliebant.jpg"
+    dateformat = "Jan 2, 2006"
+    
+    google_cse_id = "355a943c9f2f5432b" 
+    google_cse_filter = "bant.altervista.org/" 
+
+[params.postMeta]
+  date = true
+
+[Params.widgets.search]
+    url = "https://cse.google.com/cse/publicurl" # Questo è l'URL di base per GCS
+    input = { name = "cx", pre = "" }
+	
+[Params.logo]
+  image = "images/bantlogoheader.png"
+  title = false
+  subtitle = false
+  
+[[menu.main]]
+identifier="home"
+name = "Home"
+url = "/"
+weight =1
+
+  
+[[menu.main]]
+identifier = "I Presidenti"
+name = "I Presidenti"
+url = "/categories/I Presidenti/"
+weight = 2
+
+[[menu.main]]
+identifier = "Gli Allenatori"
+name = "Gli Allenatori"
+url = "/categories/Gli Allenatori/"
+weight = 3
+
+[[menu.main]]
+identifier = "Schizzi"
+name = "Schizzi"
+url = "/categories/Schizzi/"
+weight = 4
+
+[[menu.main]]
+identifier = "Miscellanea"
+name = "Miscellanea"
+url = "/categories/Miscellanea/"
+weight = 5
+
+[[menu.main]]
+identifier = "Tutorial"
+name = "Tutorial"
+url = "/categories/Tutorial/"
+weight = 6
+
+
+[[menu.main]]
+identifier = "chisono"
+name = "chi sono"
+url = "/chisono/"
+weight = 7
+
+[Params.style.vars]
+  highlightColor = "#3f9dcf"
+  
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = [ "search", "banner-pres", "banner-all", "recent", "categories", "taglist"]
+
+[Params.widgets] 
+  tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[markup.goldmark.renderer]
+unsafe = true

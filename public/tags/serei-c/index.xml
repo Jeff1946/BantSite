@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serei C on BAnt</title>
+    <link>//localhost:1313/tags/serei-c/</link>
+    <description>Recent content in Serei C on BAnt</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/serei-c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Promossi!</title>
+      <link>//localhost:1313/posts/miscellanea/promozione-2023/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/miscellanea/promozione-2023/</guid>
+      <description>&lt;div&gt;&#xA;&lt;img class=&#34;aligncenter size-full wp-image-2229&#34; src=&#34;//localhost:1313/posts/miscellanea/promozione-2023/catania-ssd-titolari.png&#34; alt=&#34;Caricatura degli undici (più) titolare e dell&#39;allenatore Ferraro del Catania SSD promosso in C nel 2022/23 (Bant 2023)&#34; /&gt;&#xA;&lt;figcaption&gt;In piedi da sinistra: Sarao, Lorenzini, Somma, Rizzo, Lodi, Bethers, l&#39;allenatore Ferraro. Accosciati da sinistra: Castellini, Vitale, Chiarella, De Luca, Rapisarda.&lt;/figcaption&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

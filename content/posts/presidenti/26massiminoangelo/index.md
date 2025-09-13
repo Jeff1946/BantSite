@@ -1,0 +1,106 @@
+---
+date: 2021-11-21
+linktitle: 26) Angelo Massimino
+title: 26) Angelo Massimino
+thumbnail: "/posts/presidenti/26massiminoangelo/26massiminoangelo.png"
+categories: [ "Rossazzurri Indimenticabili", "I Presidenti" ]
+tags: ["Serie C1", "CND", "Serie C2", "Club Calcio Catania"]
+sidebar: right
+---
+Destino volle che senza di me il Catania non trovasse fortuna e così, dopo cinque stagioni senza risultati,  <a href="/posts/presidenti/24attaguileangelo" target="_blank" rel="noopener">Attaguile</a> mi richiamò per dargli una mano a risollevare la situazione finanziaria del Club, che nel frattempo era precipitata.</br>
+C’erano almeno dieci miliardi di lire di debiti, una cifra esorbitante.</br>
+Mi convinsi comunque che avrei avuto meno beghe a salvare la baracca che a vedermi indirettamente coinvolto nella procedura fallimentare.</br>
+Fu l’ennesima rivincita e la stampa accolse il mio ritorno con lo stesso entusiasmo con cui aveva festeggiato il mio addio.</br>
+Una disinvoltura disarmante che non impedì al quotidiano locale di salutarmi con un articolo ironico che riproponeva le solite leggende metropolitane sulle mie disavventure grammaticali. Me la presi non poco, ma c’erano affari più urgenti di cui occuparsi.
+<!--more-->
+
+Il risanamento era una sfida lunga e difficile, e non si poteva trascurare l’aspetto tecnico, specie ora che si tornava a respirare un certo entusiasmo.</br>
+Per la stagione 1992-’93 scelsi come allenatore <a href="https://it.wikipedia.org/wiki/Salvatore_Bianchetti" target="_blank" rel="noopener">Salvo Bianchetti</a>, storico allenatore delle giovanili la cui carriera sembrava poter decollare dopo un buon campionato al Barletta. Cercai di costruire una squadra di buon livello, forte di un attacco che già vantava il tridente <a href="https://it.wikipedia.org/wiki/Loriano_Cipriani" target="_blank" rel="noopener">Cipriani</a>-<a href="https://it.wikipedia.org/wiki/Claudio_Pelosi" target="_blank" rel="noopener">Pelosi</a>-<a href="https://it.wikipedia.org/wiki/Orazio_Russo" target="_blank" rel="noopener">Russo</a>. L’inizio fu col botto: 5-1 all’Avellino alla prima giornata, poi però perdemmo contratto che le prime due posizioni che erano le uniche buone per il salto di categoria e la stagione si trasformò in un lungo inseguimento che ad un certo punto sembrò anche poter essere coronato dal successo.</br>
+Ricordo in particolare un frangente memorabile quando, poco prima del derby di ritorno col Palermo, andai in televisione per annunciare la tabella di marcia che mi aspettavo la squadra rispettasse per centrare la promozione. Prevedeva, fra le altre, l’impresa di battere a domicilio il Palermo capolista per poi giocarci la volata finale.</br>
+Concordai un premio a vincere con i giocatori, che fino all’ultimo chiedevano di più, così sul pullman che ci portava al Capoluogo promisi un <em>surplus</em> di un milione di lire, omettendo di precisare che non si sarebbe trattato di un milione a testa, ma da dividere fra tutti i componenti della rosa.</br>
+Fatto sta che i giocatori scesero in campo con la giusta carica e fecero una partita quasi perfetta. La<a href="https://www.youtube.com/watch?v=IhwZv9o8Ua8" target="_blank" rel="noopener"> botta su punizione</a> di Cipriani che sbloccò il risultato a nostro favore diventò presto una delle immagini più iconiche della nostra storia. Palmisano raddoppiò in contropiede e sprecammo anche altre occasioni per arrotondare il punteggio. Fu una grande giornata, con i tifosi che vennero a festeggiarci al rientro dalla trasferta.</br>
+Era il 21 febbraio 1993 e la benzina purtroppo stava per finire. Conquistammo un altro successo prestigioso (e faticoso) con il ricco Perugia di <a href="https://it.wikipedia.org/wiki/Luciano_Gaucci" target="_blank" rel="noopener">Gaucci</a>, ma il sogno di partecipare alla volata promozione svanì in anticipo e finimmo sesti.
+
+C’era però di nuovo una buona base tecnica su cui lavorare e, cosa ben più importante, il monte debitorio stava velocemente diminuendo.</br>
+Lo avevo più che dimezzato e in più le società per azioni siciliane beneficiavano di una dilazione di quanto dovuto all’erario grazie alle agevolazioni previste per le zone colpite dal forte terremoto di Santa Lucia del 1990.</br>
+Nulla faceva presagire un’estate più calda delle precedenti, anzi.</br>
+Eppure il clima generale era di nuovo cambiato, intorno a me e intorno al Catania. I tifosi non volevano sentire parlare di ridimensionare le ambizioni e durante un allenamento estivo fui aggredito fisicamente durante una contestazione come sempre degenerata.
+Il mio errore più grande fu di non recepire i segnali che venivano dal palazzo. Una volta uscito di scena Attaguile la società aveva infatti perso il proprio corridoio privilegiato nei rapporti con gli organi federali.</br>
+Sottovalutai colpevolmente gli ammonimenti a presentare le garanzie necessarie all’iscrizione, riducendomi all’ultimo istante e ciò innescò una reazione a catena devastante.
+La causa occasionale di una guerra legale senza precedenti fu una raccomandata inviata di sabato e pertanto arrivata un giorno in ritardo rispetto alla scadenza “perentoria” fissata dalla per l’iscrizione.</br>
+Abbandonata ogni forma di flessibilità che era di prassi fino a poco tempo prima, quando a Roma andavo accompagnato da Attaguile, e anticipando di fatto una sentenza di fallimento che sarebbe spettata semmai al tribunale ordinario, il <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/14/clamoroso-al-cibali/" target="_blank" rel="noopener">31 luglio 1993</a> la Federazione sancì la nostra esclusione e quella di altre cinque società fra le quali il il Messina.</br>
+Il ricorso al CONI fu respinto il <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/13/21-08-1993-catania-e-messina-e-laddio/" target="_blank" rel="noopener">20 agosto 1993</a>, quando il Catania fu definitivamente estreomesso dal campionato con tanto di revoca dell’affiliazione.
+Qualcosa però non tornava nella valutazione della nostra posizione che era sostanzialmente diversa da quella delle consorelle accomunate dalla nostra stessa sorte, alcune delle quali nemmeno avevano la disponibilità di pagare un ricorso.</br>
+La giustizia sportiva fece però rapidamente il proprio corso.</br>
+Secondo un copione visto e rivisto le società escluse furono rimpiazzate da nuovi club che ripartirono dalle serie inferiori, nel caso delle siciliane dalla quarta serie, il Campionato Nazionale Dilettanti.</br>
+A Catania il sindaco <a href="https://it.wikipedia.org/wiki/Enzo_Bianco" target="_blank" rel="noopener">Enzo Bianco</a> investì della responsabilità di fare ripartire il calcio l’ex socio di Attaguile, <a href="https://it.wikipedia.org/wiki/Franco_Proto" target="_blank" rel="noopener">Franco Proto</a>, già <em>patron </em>dell’Atletico Leonzio, club di C2 e adesso anche della neonata Associazione Sportiva Catania 1993.
+
+Nella foga di trovare soluzioni semplici ad un problema che era ancora più complesso di quanto in quel momento si immaginasse, arrivarono le proposte più fantasiose, come quella di trasferire da subito il titolo della formazione di Lentini a Catania, con tanto di immediato cambio di denominazione, in deroga a qualunque regola federale e di buon senso.
+Si parla anche del mio presunto interessamento all’acquisizione del Giarre, altro club che navigava in cattive acque.
+
+Mentre tutti mi davano addosso in quanto artefice del disastro, i campionati ripartirono con il nuovo Catania di Proto in C.N.D. e l’Atletico Leonzio in C2, mentre il mio Catania storico era di fatto una società fantasma.</br>
+Viva perché mai fallita, ma impossibilitata a svolgere qualsiasi attività perché prima di affiliazione federale.</br>
+Non potevo accettare questo sopruso, così mi concentrai sulla costruzione di un’altra grande squadra, quella dei miei avvocati. Li chiamavo “i bimbi belli”, perché loro erano il tramite “presentabile” che mi consentiva di far valere le mie ragioni anche quando si trattava di parlare in televisione.</br>
+Libero dal vincolo dell’affiliazione e quindi da quello della clausola compromissoria che impedisce alle società sportive di rivolgersi a tribunali non sportivi per qualsivoglia contenzioso, il vecchio Catania si rivolse così al Tribunale Amministrativo Regionale per riavere il maltolto.</br>
+Il TAR riconobbe che quelli che anche ad un occhio digiuno di regolamenti e giurisprudenza apparivano come passi irrituali e frettolosi, erano provvedimenti sproporzionati rispetto alle colpe della società.</br>
+Il <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/13/verdetto-sorpresa/" target="_blank" rel="noopener">14 settembre 1993</a> esplose così una seconda bomba di forza uguale e contraria rispetto a quella del 31 luglio: il TAR emanò un’ordinanza a tutela del Calcio Catania 1946 che prevedeva l’immediato reintegro in Serie C1.</br>
+I giornalisti da quel momento furono costretti a riferirsi al Catania con la denominazione completa, per distinguerlo dall’A.S. Catania 1993 frutto del paradosso estivo scatenato dalla Federazione.
+
+La clamorosa sentenza fece scalpore e disintegrò il precario equilibrio appena raggiunto.
+I tifosi rossazzurri tornarono in massa a sostenermi, quasi non fosse lo stesso uomo aggredito meno di due mesi prima. Il TAR mostrò i muscoli e, alle resistenze degli organi federali, nominò dei commissari ad acta per fare stilare nuovi calendari. La vicenda diventò pirandelliana.
+La stampa nazionale, guidata dal catenesissimo <a href="https://it.wikipedia.org/wiki/Candido_Cannav%C3%B2" target="_blank" rel="noopener">Candido Cannavò</a>, direttore del principale quotidiano sportivo, si schierò con il palazzo. Unica eccezione fu il “Corriere dello Sport” di <a href="https://it.wikipedia.org/wiki/Italo_Cucci" target="_blank" rel="noopener">Italo Cucci</a>, che invece ci sostenne.</br>
+La FIGC giocava sull’equivoco agitando lo spettro di un futuro in cui i tribunali sarebbero intasati da contese relative a decisioni arbitrali.</br>
+Fu un muro contro muro, con i vertici che si assunsero il rischio di condanne amministrative che non tardarono ad arrivare, fino a giungere al nuovo paradosso della partita fantasma, altro momento storico per il nostro Club.</br>
+Il <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/10/il-catania-vuole-esistere/" target="_blank" rel="noopener"> 3 ottobre</a> il Catania, che nel frattempo continuava ad allenarsi agli ordini di <a href="https://it.wikipedia.org/wiki/Osvaldo_Jaconi" target="_blank" rel="noopener">Osvaldo Jaconi</a>, scese in campo al Cibali in ossequio ai nuovi calendari stilati dal TAR, pur sapendo che il Giarre, avversario designato, era già ad Avellino come previsto dal calendario ufficiale: si giocò così un’amichevole con i dilettanti della Palestro Libertas.
+
+La parola fine, almeno per i risvolti meramente sportivi, la mise il CGA di Palermo, cioè il secondo grado della giustizia amministrativa, che entrò nel merito del provvedimento del TAR di Catania.</br>
+La <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/09/catania-diritto-di-esistere/" target="_blank" rel="noopener">sentenza</a> affermò che la federazione non avrebbe dovuto revocare l’affiliazione al Calcio Catania, ma era libera di decidere in quale campionato farla giocare.</br>
+Di fatto fu una mia vittoria, ma quasi simbolica, considerato che la FIGC ci inserì beffardamente <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/08/catania-ingiustizia-e-fatta/" target="_blank" rel="noopener">in uno dei due gironi del campionato di Eccellenza</a> siculo, un gradino sotto il CND in cui militava il Catania 1993.</br>
+Una beffa cui si aggiunse un danno tutt’altro che trascurabile: il parco giocatori andò disperso. Per esempio <a href="https://it.wikipedia.org/wiki/Orazio_Russo" target="_blank" rel="noopener">Orazio Russo</a> si accasò al Lecce in Serie A . Inoltre la situazione debitoria della società restò quella dell’inizio dell’estate, con il declassamento triplo che ridimensionò l’<em>appeal</em> del Club nei confronti degli sponsor, oltre alle prospettive in termini di incassi.
+
+Restò di certo una ritrovata compattezza, per quanto intrinsecamente precaria a causa del carattere ondivago dei catanesi, mentre all’orizzonte si profilava una nuova minaccia. Affrontata la stagione di Eccellenza e conquistati un terzo posto e un ripescaggio in CND che sapeva di contentino del palazzo, il proposito di portare a Catania l’Atletico Leonzio si concretizzò grazie ad uno scambio di titoli.</br>
+Il Catania 1993 diventò Leonzio, l’Atletico si spostò a Catania. Rinacque così l’Atletico Catania, con presupposti molto diversi rispetto a quello dai colori verde-fucsia che nel 1987 era nato dal Mascalucia per volere di Salvatore Tabita. La nuova compagine vestì sfrontatamente i colori rossazzurri e sfoggiò pure il simbolo dell’elefante, forte del vantaggio di militare due categorie sopra il mio Catania, che si ritrovò così ad essere la seconda forza cittadina, perdendo una fetta del proprio seguito conquistata dallo stile di Franco Proto.</br>
+La storia del Catania però continuava e questo era quello che contava per me e per molti altri.
+
+La stagione 1994-’95 fu tutt’altro che agevole, visto che per tornare fra i professionisti c’era solo un’opzione, quella di conquistare la prima poltrona. In più la squadra era da rifondare e io cominciavo ad avere sempre più bisogno fidarmi dei miei collaboratori, perché il diabete mi stava rendendo cieco.</br>
+In società c’era una folta schiera di parenti che mi fornivano leale sostegno, tuttavia non dovevo anche reclutare elementi esterni per districarmi in categorie inesplorate.
+Il <a href="https://tuttoilcataniaminutoperminuto.it/tag/gangi/" target="_blank" rel="noopener">13 maggio 1995</a>, pur soffrendo fino all’ultima giornata a causa della strenua resistenza opposta da un indomito Milazzo, tornammo comunque a festeggiare una promozione. Il Catania che avevo costruito vantava giocatori di categoria superiore, da <a href="https://it.wikipedia.org/wiki/Vincenzo_Del_Vecchio" target="_blank" rel="noopener">Vincenzino Del Vecchio</a> e Angelo Sciuto, generosamente tornati a dare una mano, a Giuseppe Sampino, passando per Maurizio Pellegrino, <a href="https://it.wikipedia.org/wiki/Pasquale_Marino" target="_blank" rel="noopener">Pasquale Marino</a> e per il bomber Giuseppe Mosca. Il tecnico Angelo Busetta, subentrato a <a href="https://it.wikipedia.org/wiki/Pier_Giuseppe_Mosti" target="_blank" rel="noopener">Pier Giuseppe Mosti</a>, fece il suo.
+
+La C1 scippata ingiustamente era adesso solo un gradino più avanti e in fondo al tunnel sembrava intravedersi una luce.</br>
+Fu solo un’illusione.</br>
+La C2 era una giungla peggiore di quanto immaginassi. Per affrontarla dovetti rivoluzionare la rosa, ma stavolta mi fidai delle persone sbagliate.</br>
+In panchina arrivò <a href="https://it.wikipedia.org/wiki/Lamberto_Leonardi" target="_blank" rel="noopener">Lamberto Leonardi</a>, presentatomi come un astro nascente ma che in realtà era un allenatore da tempo fuori dal giro.</br>
+Non fu il solo tassello fuori posto di una campagna acquisti che arruolò molti doppioni lasciando alcuni ruoli scoperti.</br>
+La stagione iniziò con un antipasto indigesto in Coppa Italia di categoria: i nuovi coinquilini del Cibali dell’Atletico ci fecero fuori nel doppio confronto ad eliminazione diretta (3-0 e 1-1).</br>
+In campionato le cose non andarono meglio e già dopo tre giornate Leonardi saltò. Il sostituto designato era <a href="https://it.wikipedia.org/wiki/Aldo_Cerantola" target="_blank" rel="noopener">Aldo Cerantola</a>, che però rinunciò prima ancora di sedersi in panchina e alla fine toccò a <a href="https://it.wikipedia.org/wiki/Mario_Russo" target="_blank" rel="noopener">Mario Russo </a>prendersi la patata bollente di una squadra costruita male ed evidentemente fuori forma. Faticò non poco per mantenerci lontano dalla zona calda, ma ci riuscì.
+
+E il peggio doveva ancora venire.
+
+Il <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/07/massimino-lultimo-viaggio/" target="_blank>4 marzo 1996</a>, mentre percorrevo con mio genero Giuseppe Inzalaco la Palermo-Catania, di ritorno da un incontro per discutere degli strascichi della vicenda giudiziaria del 1993, l’asfalto bagnato trasformò la nostra auto in un proiettile impazzito e io fui sbalzato fuori morendo sul colpo.</br>
+Non avrei voluto che finisse così.</br>
+Non ero tipo da lasciare le cose a metà e come minimo dovevo riprendermi la Serie C.</br>
+Inoltre non volevo che il peso delle mie scelte cadesse così pesantemente sulle spalle di mia moglie Grazia Codiglione, che mi succedette alla presidenza, e del resto della mia famiglia.
+Sono però fiero di poter dire che i miei eredi portarono a termine la mia rivincita.</br>
+<h2>Palmarès</h2>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>2 Promozioni in Serie A (1969-’70 e 1982-'83)</li>
+ 	<li>2 Promozioni in Serie B (1974-’75 e 1979-'80)</li>
+ 	<li>1 Promozione dal Campionato Nazionale Dilettanti alla Serie C2 (1984-’85)</li>
+ 	<li>2 Retrocessioni dalla Serie A alla Serie B (1970-’71 e 1983-'84)</li>
+ 	<li>2 Retrocessioni dalla Serie B alla Serie C (1976-’77 e 1986-'87)</li>
+</ul>
+</li>
+</ul>
+<h2>Bibliografia</h2>
+<ul>
+ 	<li>Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, "<a href="http://tuttoilcatania.altervista.org/" target="_blank" rel="noopener">Tutto il Catania Minuto per Minuto</a>", Geo edizioni, 2011.</li>
+ 	<li>Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, <b>"Il rosso, l'azzurro - Catania, novant'anni di una maglia"</b>, Geo edizioni, 2020.</li>
+</ul>
+</br>
+<em>La versione cartacea di "<strong>Rossazzurri Indimenticabili: i Presidenti del Catania</strong>" è disponibile su <a href="https://www.amazon.it/dp/B0BJYGHXZH" target="_blank" rel="noopener">Amazon</a>.
+100 pagine a colori e 40 ritratti di Presidenti e dirigenti che hanno fatto la storia del Catania.</em>
+
+<a href="https://www.amazon.it/dp/B0BJYGHXZH" target="_blank" rel="noopener"><img class="aligncenter wp-image-1415 size-large" src="/images/banners/ri1-horizontal.png" alt="Rosazzurri Indimenticabili, banner orizzontale" width="640" height="269" /></a>
+
