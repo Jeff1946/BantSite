@@ -76,7 +76,7 @@ In campionato le cose non andarono meglio e già dopo tre giornate Leonardi salt
 
 E il peggio doveva ancora venire.
 
-Il <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/07/massimino-lultimo-viaggio/" target="_blank>4 marzo 1996</a>, mentre percorrevo con mio genero Giuseppe Inzalaco la Palermo-Catania, di ritorno da un incontro per discutere degli strascichi della vicenda giudiziaria del 1993, l’asfalto bagnato trasformò la nostra auto in un proiettile impazzito e io fui sbalzato fuori morendo sul colpo.</br>
+Il <a href="https://tuttoilcataniaminutoperminuto.it/2007/08/07/massimino-lultimo-viaggio/" target="_blank">4 marzo 1996</a>, mentre percorrevo con mio genero Giuseppe Inzalaco la Palermo-Catania, di ritorno da un incontro per discutere degli strascichi della vicenda giudiziaria del 1993, l’asfalto bagnato trasformò la nostra auto in un proiettile impazzito e io fui sbalzato fuori morendo sul colpo.</br>
 Non avrei voluto che finisse così.</br>
 Non ero tipo da lasciare le cose a metà e come minimo dovevo riprendermi la Serie C.</br>
 Inoltre non volevo che il peso delle mie scelte cadesse così pesantemente sulle spalle di mia moglie Grazia Codiglione, che mi succedette alla presidenza, e del resto della mia famiglia.

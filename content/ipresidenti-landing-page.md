@@ -25,7 +25,7 @@ BAnt immagina che siano gli stessi protagonisti a raccontare in prima persona le
 
 <hr />
 
-<blockquote>Quello di BAnt è un libro geniale, perché coniuga arte grafica, narrativa e storiografia in un’opera che si legge tutta d’un fiato.</blockquote>
+<blockquote>Quello di BAnt è un libro geniale, perché coniuga arte grafica, narrativa e storiografia in un’opera che si legge tutta d’un fiato.<br>Emanuele Rizzo</blockquote>
 
 <hr />
 
