@@ -20,9 +20,9 @@ jobs:
         run: hugo --minify --baseURL="https://bant.altervista.org/"
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ftp.bant.altervista.org
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./public
+          local-dir: ./public/
