@@ -7,11 +7,7 @@
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}
 			{{ with partial "post_meta.html" . -}}
-			<div class="post__meta meta">{{ . }}
-<time datetime="{{ .Date.Format "2006-01-02" }}">
-        {{ .Date | time.Format ":date_long" }}
-      </time>
-</div>
+			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
 		</header>
 		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}

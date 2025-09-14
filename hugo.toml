@@ -2,7 +2,7 @@ baseURL = '/'
 languageCode = 'it'
 title = 'BAnt'
 theme = "mainroad"
-defaultContentLanguage = "it"
+
 
 [Params]
     readmore = true
