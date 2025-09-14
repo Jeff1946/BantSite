@@ -1,10 +1,52 @@
-{{- $d := .Date }}
-{{- if not $d.IsZero }}
-  {{- $weekdayEn := $d.Format "Monday" }}
-  {{- $monthEn   := $d.Format "January" }}
-  {{- $weekday := T (printf "weekday_%s" $weekdayEn) }}
-  {{- $month   := T (printf "month_%s" $monthEn) }}
+{{- /* Partial per visualizzare la data in italiano con fallback robusto */ -}}
+{{- $d := .Date -}}
+{{- if not $d.IsZero -}}
+
+  {{- /* nomi in inglese generati da Go */ -}}
+  {{- $weekdayEn := $d.Format "Monday" -}}   {{/* Monday, Tuesday, ... */}}
+  {{- $monthEn   := $d.Format "January" -}}  {{/* January, February, ... */}}
+
+  {{- /* prova a prendere la traduzione via i18n (chiave: weekday_Monday, month_January) */ -}}
+  {{- $weekdayID := printf "weekday_%s" $weekdayEn -}}
+  {{- $monthID   := printf "month_%s" $monthEn -}}
+  {{- $weekdayTrans := T $weekdayID -}}
+  {{- $monthTrans   := T $monthID -}}
+
+  {{- /* scratch per costruire le variabili con scope globale nel template */ -}}
+  {{- $s := newScratch -}}
+
+  {{- /* fallback map per i giorni (capitalizzati) */ -}}
+  {{- $weekdayMap := dict
+        "Monday" "Lunedì" "Tuesday" "Martedì" "Wednesday" "Mercoledì"
+        "Thursday" "Giovedì" "Friday" "Venerdì" "Saturday" "Sabato"
+        "Sunday" "Domenica"
+  -}}
+
+  {{- /* fallback map per i mesi (minuscolo come consuetudine italiana) */ -}}
+  {{- $monthMap := dict
+        "January" "gennaio" "February" "febbraio" "March" "marzo"
+        "April" "aprile" "May" "maggio" "June" "giugno"
+        "July" "luglio" "August" "agosto" "September" "settembre"
+        "October" "ottobre" "November" "novembre" "December" "dicembre"
+  -}}
+
+  {{- /* weekday: usa traduzione se diversa dall'id, altrimenti fallback map */ -}}
+  {{- if and (ne $weekdayTrans "") (ne $weekdayTrans $weekdayID) -}}
+    {{- $s.Set "weekday" $weekdayTrans -}}
+  {{- else -}}
+    {{- $s.Set "weekday" (index $weekdayMap $weekdayEn) -}}
+  {{- end -}}
+
+  {{- /* month: usa traduzione se diversa dall'id, altrimenti fallback map */ -}}
+  {{- if and (ne $monthTrans "") (ne $monthTrans $monthID) -}}
+    {{- $s.Set "month" $monthTrans -}}
+  {{- else -}}
+    {{- $s.Set "month" (index $monthMap $monthEn) -}}
+  {{- end -}}
+
+  {{- /* output finale */ -}}
   <time datetime="{{ $d.Format "2006-01-02" }}" class="post__date">
-    {{ $weekday }}, {{ $d.Format "02" }} {{ $month }} {{ $d.Format "2006" }}
+    {{ $s.Get "weekday" }}, {{ $d.Format "02" }} {{ $s.Get "month" }} {{ $d.Format "2006" }}
   </time>
-{{- end }}
+
+{{- end -}}

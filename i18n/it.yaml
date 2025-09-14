@@ -92,3 +92,46 @@
   translation:
     "<b>Suggerimento:</b> Puoi mostrare quante sezioni vuoi con il parametro \
     <b><a href=\"https://gohugo.io/functions/where/#mainsections\" rel=\"nofollow noopener\" target=\"_blank\">mainSections</a></b>."
+
+- id: weekday_Monday
+  translation: "Lunedì"
+- id: weekday_Tuesday
+  translation: "Martedì"
+- id: weekday_Wednesday
+  translation: "Mercoledì"
+- id: weekday_Thursday
+  translation: "Giovedì"
+- id: weekday_Friday
+  translation: "Venerdì"
+- id: weekday_Saturday
+  translation: "Sabato"
+- id: weekday_Sunday
+  translation: "Domenica"
+
+- id: month_January
+  translation: "gennaio"
+- id: month_February
+  translation: "febbraio"
+- id: month_March
+  translation: "marzo"
+- id: month_April
+  translation: "aprile"
+- id: month_May
+  translation: "maggio"
+- id: month_June
+  translation: "giugno"
+- id: month_July
+  translation: "luglio"
+- id: month_August
+  translation: "agosto"
+- id: month_September
+  translation: "settembre"
+- id: month_October
+  translation: "ottobre"
+- id: month_November
+  translation: "novembre"
+- id: month_December
+  translation: "dicembre"
+
+- id: read_more
+  translation: "continua..."

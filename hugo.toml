@@ -13,7 +13,10 @@ theme = "mainroad"
     google_cse_id = "355a943c9f2f5432b" 
     google_cse_filter = "bant.altervista.org/" 
 
-  
+
+  post_meta = ["date"]
+	
+ 
 [Params.postMeta]
   date = true
 
