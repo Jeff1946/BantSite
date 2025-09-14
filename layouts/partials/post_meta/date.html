@@ -1,0 +1,10 @@
+{{- $d := .Date }}
+{{- if not $d.IsZero }}
+  {{- $weekdayEn := $d.Format "Monday" }}
+  {{- $monthEn   := $d.Format "January" }}
+  {{- $weekday := T (printf "weekday_%s" $weekdayEn) }}
+  {{- $month   := T (printf "month_%s" $monthEn) }}
+  <time datetime="{{ $d.Format "2006-01-02" }}" class="post__date">
+    {{ $weekday }}, {{ $d.Format "02" }} {{ $month }} {{ $d.Format "2006" }}
+  </time>
+{{- end }}
