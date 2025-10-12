@@ -17,7 +17,7 @@ Diventare il primo presidente della neonata Società Sportiva Catania, nel 1929,
 Il calcio viveva una riorganizzazione epocale, stavano nascendo la Serie A e la Serie B a girone unico, come voleva il nuovo presidente della FIGC, il gerarca fascista bolognese <a href="https://it.wikipedia.org/wiki/Leandro_Arpinati" target="_blank" rel="noopener">Leandro Arpinati</a>.
 Non fu l'unica rivoluzione, visto che il partito voleva anche che ciascun capoluogo di provincia fosse rappresentato da una squadra di calcio affiliata alla Federazione.
 Io al tempo ero segretario federale del Partito Nazionale Fascista di Catania e fu naturale affidarmi il compito di mettere ordine nel disorganizzatissimo ecosistema calcistico catanese che, manco a dirlo, fino a quel momento non aveva mai avuto rappresentanti in tornei federali.
-La S.S. Catania, maglia rossazzurra e stemma d’Elefante, fu la prima a farlo. Nacque il 27 giugno 1929, grazie a <a href="/posts/ipresidenti/06albaneseruggero" target="_blank" rel="noopener">Ruggero Albanese</a> e Saverio Gravina.
+La S.S. Catania, maglia rossazzurra e stemma d’Elefante, fu la prima a farlo. Nacque il 27 giugno 1929, grazie a <a href="/posts/presidenti/06albaneseruggero/" target="_blank" rel="noopener">Ruggero Albanese</a> e Saverio Gravina.
 La squadra fu ammessa alla Seconda Divisione Sud, Girone A, quarto livello del calcio italiano, torneo a carattere interregionale, che contava dieci partecipanti.
 
 Sul piano sportivo la prima stagione, quella 1929-'30, fu un disastro.
