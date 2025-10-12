@@ -6,8 +6,22 @@
     <description>Recent content in Categories on BAnt</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calciatori</title>
+      <link>//localhost:1313/categories/calciatori/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/calciatori/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rossazzurri Indimenticabili</title>
+      <link>//localhost:1313/categories/rossazzurri-indimenticabili/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/rossazzurri-indimenticabili/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Schizzi</title>
       <link>//localhost:1313/categories/schizzi/</link>
@@ -20,13 +34,6 @@
       <link>//localhost:1313/categories/gli-allenatori/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/gli-allenatori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rossazzurri Indimenticabili</title>
-      <link>//localhost:1313/categories/rossazzurri-indimenticabili/</link>
-      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/rossazzurri-indimenticabili/</guid>
       <description></description>
     </item>
     <item>

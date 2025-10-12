@@ -13,10 +13,10 @@ Sfruttai bene la tregua e per la stagione 1974-’75 misi in piedi una squadra c
 <!--more-->
 
 Schierava giocatori di fortissima personalità quali i confermati <a href="https://it.wikipedia.org/wiki/Zelico_Petrovic" target="_blank" rel="noopener">Zelico Petrovic</a>, <a href="https://it.wikipedia.org/wiki/Adelchi_Malaman" target="_blank" rel="noopener">Adelchi Malaman</a>, <a href="https://it.wikipedia.org/wiki/Guido_Biondi" target="_blank" rel="noopener">Guido Biondi</a> e <a href="https://it.wikipedia.org/wiki/Giampietro_Spagnolo" target="_blank" rel="noopener">Giampietro Spagnolo</a>, cui si aggiunsero fra gli altri Piero Giagnoni e <a href="https://it.wikipedia.org/wiki/Claudio_Ciceri" target="_blank" rel="noopener">Claudio Ciceri</a>.</br>
-Affidai la guida tecnica a <a href="https://it.wikipedia.org/wiki/Gennaro_Rambone" target="_blank" rel="noopener">Gennaro Rambone</a>, un personaggio vulcanico quanto me, che già dal ritiro torchiò i giocatori, mentre io cercai come sempre di raccapezzarmi per mettere ordine nei contratti e ridimensionare pretese esorbitanti.
+Affidai la guida tecnica a <a href="/posts/allenatori/rambonegennaro/" target="_BLANK">Gennaro Rambone</a>, un personaggio vulcanico quanto me, che già dal ritiro torchiò i giocatori, mentre io cercai come sempre di raccapezzarmi per mettere ordine nei contratti e ridimensionare pretese esorbitanti.
 
 Partimmo con la giusta carica, solo che già alla seconda di Coppa Italia <a href="https://it.wikipedia.org/wiki/Gennaro_Rambone" target="_blank" rel="noopener">Rambone</a> esplose e rassegnò le dimissioni.</br>
-Mi toccò allora richiamare <a href="https://it.wikipedia.org/wiki/Egizio_Rubino" target="_blank" rel="noopener">Egizio Rubino</a>, che riportò un po’ di calma e la squadra poté concentrarsi unicamente sull’obiettivo di vincere.
+Mi toccò allora richiamare <a href="/posts/allenatori/rubinoegizio/" target="_blank" rel="noopener">Egizio Rubino</a>, che riportò un po’ di calma e la squadra poté concentrarsi unicamente sull’obiettivo di vincere.
 La stagione fu entusiasmante, perdemmo solo una volta, a Messina, centrando 20 vittorie e 17 pareggi con la coppia d’attacco Ciceri-Spagnolo che mi fece felice realizzando la bellezza di 38 reti.</br>
 Eppure la festa scattò solo all’ultima giornata perché il Bari non mollò fino alla fine, arrivando solo un punto dietro di noi.</br>
 
