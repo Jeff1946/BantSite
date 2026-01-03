@@ -1,5 +1,5 @@
 ---
-date: 2025-12-27
+date: 2026-01-03
 linktitle: Cantarutti, felicità e condanna di goleador
 title: Cantarutti, felicità e condanna di goleador
 thumbnail: "/posts/emeroteca/1983_09_01_cantarutti/1983_09_01_siciliani_cantarutti.jpg"
