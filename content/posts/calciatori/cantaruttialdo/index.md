@@ -2,7 +2,7 @@
 date: 2025-11-30
 linktitle: Aldo Cantarutti
 title: Aldo Cantarutti
-categories: [ "Rossazzurri Indimenticabili", "Calciatori"]
+categories: [ "Rossazzurri Indimenticabili", "I calciatori"]
 tags: ["Serie A", "Serie B", "Club Calcio Catania"]
 sidebar: right
 ---
@@ -41,6 +41,7 @@ Esaurita l’esperienza al Catania fa benissimo anche all’Ascoli e all’Atala
 <ul>
  	<li>Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, "<a href="http://tuttoilcatania.altervista.org/" target="_blank" rel="noopener">Tutto il Catania Minuto per Minuto</a>", Geo edizioni, 2011.</li>
  	<li>Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, <b>"Il rosso, l'azzurro - Catania, novant'anni di una maglia"</b>, Geo edizioni, 2020.</li>
+<li>Fabio Tracuzzi,<b><a href="/posts/emeroteca/1983_09_01_cantarutti/" target="_blank"> Cantarutti, felicità e condanna di goleador </a></b>, "I Siciliani", Anno I, N. 8, Settembre 1983, pag. 84</li>
 <li> <a href="https://youtu.be/Q7QzosPLNJo?si=ap7yphFm6-g-gYGW" target="_blank" rel="noopener">1983/84, Serie A, Catania - Milan 1-1 </a>, Calcio Archivio.</li>
 <li> <a href="https://it.wikipedia.org/wiki/Aldo_Cantarutti" target="_blank" rel="noopener">Wikipedia </a>, Aldo Cantarutti.</li>
 </ul>

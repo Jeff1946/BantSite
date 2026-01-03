@@ -2,7 +2,7 @@
 date: 2025-10-10
 linktitle: Roberto Sorrentino
 title: Roberto Sorrentino
-categories: [ "Rossazzurri Indimenticabili", "Calciatori"]
+categories: [ "Rossazzurri Indimenticabili", "I calciatori"]
 tags: ["Serie A", "Serie B", "Serie C1","Club Calcio Catania"]
 sidebar: right
 ---
@@ -23,7 +23,7 @@ Rambone se ne va con uno dei suoi caratteristici colpi di teatro lasciando a <a 
 Cambiano però i risultati e con il veloce insediamento in testa alla classifica tutto diventa più facile. <br>A fine stagione si festeggia il ritorno in B e con la consueta disinvoltura in molti cambiano opinione. Stavolta è Sorrentino a non dimenticare, sottraendosi a festeggiamenti troppo plateali.
 <br>
 
-Seguono due anni interlocutori in B, quindi il capitolo più epico dell’avventura di Sorrentino al Catania. Massimino stavolta si affida a Di Marzio per costruire un gruppo vincente e costruisce quel trionfo celebrato più volte culminato nella vittoria degli <a href="/posts/miscellanea/spareggi-di-roma-1983/" target="_BLANK">spareggi di Roma </a>contro Como e Cremonese che consentono al Catania di raggiungere le fuoriserie Milan e Lazio in Serie A.<br>
+Seguono due anni interlocutori in B, quindi il capitolo più epico dell’avventura di Sorrentino al Catania. Massimino stavolta si affida a Di Marzio per costruire un gruppo vincente e viene ricompensato con quel trionfo celebrato più volte culminato nella vittoria degli <a href="/posts/miscellanea/spareggi-di-roma-1983/" target="_BLANK">spareggi di Roma </a>contro Como e Cremonese che consentono al Catania di raggiungere le fuoriserie Milan e Lazio in Serie A.<br>
 
 Un successo costruito su una difesa solida, capace di prendere solo 21 gol in quaranta partite, un fattore in cui Roberto Sorrentino incide in modo decisivo.<br>
 
