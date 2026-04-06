@@ -6,27 +6,27 @@
     <description>Recent content in Categories on BAnt</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Emeroteca</title>
-      <link>//localhost:1313/categories/emeroteca/</link>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/emeroteca/</guid>
-      <description></description>
-    </item>
     <item>
       <title>I Calciatori</title>
       <link>//localhost:1313/categories/i-calciatori/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/i-calciatori/</guid>
       <description></description>
     </item>
     <item>
       <title>Rossazzurri Indimenticabili</title>
       <link>//localhost:1313/categories/rossazzurri-indimenticabili/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/rossazzurri-indimenticabili/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emeroteca</title>
+      <link>//localhost:1313/categories/emeroteca/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/emeroteca/</guid>
       <description></description>
     </item>
     <item>
