@@ -10,7 +10,7 @@ sidebar: right
 
 Ogni lungo viaggio inizia sempre con un passo.
 <br>
-Quello di Marco Biagianti nella storia del Catania comincia con quattro tocchi racimolati nella gara persa a Lecce contro la Roma il 7 aprile 2007, quando <a href="/posts/allenatori/marinopasquale/"  target="_blank">Pasquale Marino</a> getta nella mischia quel ventitreenne pescato dalla <a href="https://it.wikipedia.org/wiki/Florentia_Viola_2002-2003" target="_BLANK">Florentia Viola</a> nel mercato invernale e mai utilizzato prima del 92' di quella partita.<br>
+Quello di Marco Biagianti nella storia del Catania comincia con quattro tocchi racimolati nella gara persa a Lecce contro la Roma il 7 aprile 2007, quando <a href="/posts/allenatori/marinopasquale/"  target="_blank">Pasquale Marino</a> getta nella mischia quel ventitreenne pescato dalla Pro Vasto nel mercato invernale e mai utilizzato prima del 92' di quella partita.<br>
 La vera svolta arriva meno di due mesi dopo. L'ultima uscita stagionale del Catania, sul neutro di Bologna contro il Chievo Verona, è uno spareggio salvezza anomalo: ai veneti basta un punto per non retrocedere.
 
 <!--more-->
